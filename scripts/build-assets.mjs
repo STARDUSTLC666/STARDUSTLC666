@@ -126,7 +126,7 @@ const CARDS = [
     accentLight: "#6366F1",
     accentDark: "#818CF8",
     title: "dsh-remotion & hyperframes",
-    meta: "★ 73  ↗",
+    meta: "★ 74  ↗",
     desc: "React 与 HTML/GSAP 代码驱动双视频工作台 · 预览与导出"
   },
   {
@@ -135,7 +135,7 @@ const CARDS = [
     accentLight: "#EC4899",
     accentDark: "#F472B6",
     title: "dsh-ppt",
-    meta: "★ 37  ↗",
+    meta: "★ 38  ↗",
     desc: "交付级演示文稿工作台 · 输入原始材料直接生成可下载 PPTX"
   },
   {
@@ -181,11 +181,11 @@ function renderCard(card, mode) {
 `;
 }
 
-// 3. Minimalist Pill Badges (Portfolio, DSH Market, dsh-suite, Email)
+// 3. Minimalist Pill Badges (Portfolio, dsh-suite, ai-daily-briefing, Email — 100% Original Projects Only)
 const PILLS = [
   { slug: "pill-portfolio", dot: "#6366F1", label: "Portfolio · stardustlc666.github.io ↗", w: 238 },
-  { slug: "pill-market", dot: "#EC4899", label: "DSH Market · dshmarket.com ↗", w: 212 },
-  { slug: "pill-suite", dot: "#0EA5E9", label: "dsh-suite · 18+ Plugins ↗", w: 184 },
+  { slug: "pill-suite", dot: "#0EA5E9", label: "dsh-suite · 18+ Plugins ↗", w: 186 },
+  { slug: "pill-briefing", dot: "#EC4899", label: "ai-daily-briefing ↗", w: 158 },
   { slug: "pill-email", dot: "#64748B", label: "liuzhousk@gmail.com", w: 174 }
 ];
 
