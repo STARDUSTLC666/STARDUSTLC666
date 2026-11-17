@@ -183,7 +183,7 @@ function renderCard(card, mode) {
 
 // 3. Minimalist Pill Badges (Portfolio, dsh-suite, ai-daily-briefing, Email — 100% Original Projects Only)
 const PILLS = [
-  { slug: "pill-portfolio", dot: "#6366F1", label: "Portfolio · stardustlc666.github.io ↗", w: 238 },
+  { slug: "pill-portfolio", dot: "#6366F1", label: "Homepage · stardustlc666.github.io/home ↗", w: 266 },
   { slug: "pill-suite", dot: "#0EA5E9", label: "dsh-suite · 18+ Plugins ↗", w: 186 },
   { slug: "pill-briefing", dot: "#EC4899", label: "ai-daily-briefing ↗", w: 158 },
   { slug: "pill-email", dot: "#64748B", label: "liuzhousk@gmail.com", w: 174 }

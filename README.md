@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://stardustlc666.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/pill-portfolio-light.svg"><img alt="Portfolio · stardustlc666.github.io" src="./assets/pill-portfolio-light.svg" height="28"></picture></a>
+  <a href="https://stardustlc666.github.io/home/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/pill-portfolio-light.svg"><img alt="Homepage · stardustlc666.github.io/home" src="./assets/pill-portfolio-light.svg" height="28"></picture></a>
   <a href="https://github.com/STARDUSTLC666/dsh-suite"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-suite-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/pill-suite-light.svg"><img alt="dsh-suite · 18+ Plugins" src="./assets/pill-suite-light.svg" height="28"></picture></a>
   <a href="https://github.com/STARDUSTLC666/ai-daily-briefing"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-briefing-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/pill-briefing-light.svg"><img alt="ai-daily-briefing" src="./assets/pill-briefing-light.svg" height="28"></picture></a>
   <a href="mailto:liuzhousk@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/pill-email-light.svg"><img alt="liuzhousk@gmail.com" src="./assets/pill-email-light.svg" height="28"></picture></a>
